@@ -1,0 +1,15 @@
+.bg-color{
+    background-color: #2E9DA2;
+}
+.navbarHover:hover{
+    color: rgb(227, 220, 220) !important;
+}
+.fsIcon{
+    font-size: 60px;
+}
+.colorInfo{
+    color: #2E9DA2;
+}
+.colorLinkedin{
+    color: #0e76a8;
+}
